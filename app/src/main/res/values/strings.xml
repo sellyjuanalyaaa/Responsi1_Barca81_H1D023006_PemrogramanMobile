@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023006</string>
+    <string name="home_title">81 FC Barcelona</string>
+
+    <string name="barca_desc">
+        FC Barcelona, atau biasa disebut Barça, adalah klub sepak bola profesional asal Barcelona, Spanyol, yang berdiri pada 1899. Klub ini dikenal dengan motto “Més que un club” (lebih dari sekadar klub), yang mencerminkan identitas dan kebanggaannya sebagai simbol budaya Katalunya.
+        \n\nBarcelona bermain di La Liga, kasta tertinggi sepak bola Spanyol, dan bermarkas di Stadion Spotify Camp Nou. Klub ini terkenal dengan gaya permainan tiki-taka, yaitu penguasaan bola cepat dan umpan pendek.
+        \n\nSepanjang sejarahnya, Barcelona telah meraih banyak gelar, termasuk Liga Champions UEFA, La Liga, dan Copa del Rey. Klub ini juga melahirkan banyak pemain legendaris seperti Lionel Messi, Xavi Hernández, Andrés Iniesta, dan kini dilatih oleh Hansi Flick (per 2025).
+    </string>
+
+    <string name="history">Club History</string>
+    <string name="ofc">Head Coach</string>
+    <string name="teams">Team Players</string>
+
+    <string name="history_title">Sejarah FC Barcelona</string>
+    <string name="barca_history_full">
+        Awal berdiri (1899–1920-an)
+        \n\nFC Barcelona didirikan pada 29 November 1899 oleh sekelompok pemain sepak bola dari Swiss, Inggris, Jerman, dan Spanyol yang dipimpin oleh Joan Gamper. Sejak awal, klub ini mencerminkan semangat kebersamaan dan kebanggaan Katalunya. Barcelona segera menjadi salah satu klub terkuat di Spanyol, memenangkan sejumlah kejuaraan regional seperti Copa del Rey dan Campionat de Catalunya. Klub ini juga sudah membangun identitasnya lewat gaya bermain menyerang dan filosofi permainan indah.
+        \n\nMasa sulit dan kebangkitan (1930–1950-an)
+        \n\nSelama masa pemerintahan diktator Francisco Franco, Barcelona menghadapi tekanan politik karena identitas Katalan yang melekat kuat pada klub. Meski begitu, dukungan penggemar tetap tinggi. Pada periode ini, klub membangun stadion besar Les Corts dan kemudian memulai pembangunan stadion baru, Camp Nou. Di era 1950-an, Barcelona kembali berjaya dengan kehadiran pemain legendaris seperti László Kubala, yang membawa tim meraih beberapa gelar nasional dan internasional.
+        \n\nEra modern awal (1960–1980-an)
+        \n\nMeski Real Madrid mendominasi di Eropa, Barcelona tetap dikenal sebagai simbol perlawanan dan identitas Katalan. Klub memenangkan beberapa gelar domestik dan internasional, termasuk Copa del Rey dan European Cup Winners’ Cup. Pada 1973, kedatangan Johan Cruyff sebagai pemain membawa perubahan besar: Barcelona meraih gelar La Liga 1973–74 dan semakin menguatkan filosofi sepak bola menyerang.
+        \n\nEra “Dream Team” dan Cruyff (1988–1996)
+        \n\nCruyff kembali ke klub sebagai pelatih dan membangun tim legendaris yang dikenal sebagai Dream Team, dengan pemain seperti Ronald Koeman, Pep Guardiola, Hristo Stoichkov, dan Michael Laudrup. Di bawah arahannya, Barcelona meraih empat gelar La Liga berturut-turut dan memenangkan Piala Eropa pertama pada 1992. Gaya permainan berbasis penguasaan bola dan pergerakan cepat menjadi ciri khas klub hingga kini.
+        \n\nSetelah Cruyff (1997–2008)
+        \n\nPasca era Cruyff, Barcelona mengalami naik turun. Klub masih meraih beberapa gelar melalui pelatih seperti Louis van Gaal dan Frank Rijkaard, serta munculnya generasi pemain akademi La Masia seperti Xavi Hernández, Andrés Iniesta, dan Carles Puyol. Namun, tantangan internal dan pergantian pelatih sempat mengganggu kestabilan klub.
+        \n\nEra Guardiola dan dominasi global (2008–2012)
+        \n\nPenunjukan Pep Guardiola sebagai pelatih pada 2008 menandai era paling sukses dalam sejarah klub. Dipimpin oleh Lionel Messi, Xavi, dan Iniesta, Barcelona memainkan gaya tiki-taka yang sangat efektif dan indah ditonton. Klub memenangkan treble (La Liga, Copa del Rey, Liga Champions) pada 2009 dan kembali meraih banyak gelar hingga 2012. Tim ini dianggap sebagai salah satu yang terbaik sepanjang masa.
+        \n\nEra Luis Enrique dan treble kedua (2014–2017)
+        \n\nDi bawah Luis Enrique, Barcelona kembali meraih treble pada 2015, dengan trio penyerang Messi, Neymar, dan Luis Suárez (MSN). Tim ini menampilkan keseimbangan antara penguasaan bola dan serangan cepat. Setelahnya, klub masih bersaing di level tertinggi, namun perlahan menghadapi masa transisi setelah kepergian beberapa pemain kunci.
+        \n\nKrisis dan transisi (2018–sekarang)
+        \n\nSetelah Messi meninggalkan klub pada 2021 karena masalah finansial, Barcelona mengalami masa sulit baik di lapangan maupun secara ekonomi. Klub kini berupaya bangkit dengan mengandalkan pemain muda dari La Masia seperti Gavi, Pedri, dan Ansu Fati, serta di bawah arahan pelatih Xavi Hernández (hingga 2024) lalu digantikan oleh Hansi Flick pada 2025.
+        \n\nMeski mengalami pasang surut, Barcelona tetap menjadi salah satu klub paling berpengaruh di dunia, dengan identitas kuat sebagai lambang budaya Katalan dan warisan filosofi sepak bola menyerang yang diwariskan sejak era Cruyff.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

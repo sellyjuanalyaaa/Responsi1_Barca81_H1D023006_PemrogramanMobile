@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="bottom"
+    android:background="@color/white"
+    android:paddingHorizontal="30dp"
+    android:paddingTop="24dp"
+    android:paddingBottom="40dp"
+    android:elevation="16dp">
+
+    <View
+        android:layout_width="40dp"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:background="#CCCCCC"
+        android:layout_marginBottom="24dp"/>
+
+    <TextView
+        android:id="@+id/tvDetailName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@color/barca_maroon"
+        android:layout_marginBottom="16dp"
+        android:text="Nama Pemain"
+        android:fontFamily="sans-serif-black"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/barca_yellow"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tvDetailPosition"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#333333"
+        android:layout_marginBottom="8dp"
+        android:text="Posisi: Goalkeeper"
+        android:gravity="center_vertical"/>
+
+    <TextView
+        android:id="@+id/tvDetailDob"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#333333"
+        android:layout_marginBottom="8dp"
+        android:text="Tanggal Lahir: 1990-01-01"
+        android:gravity="center_vertical"/>
+
+    <TextView
+        android:id="@+id/tvDetailNationality"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#333333"
+        android:text="Kebangsaan: Spain"
+        android:gravity="center_vertical"/>
+</LinearLayout>
