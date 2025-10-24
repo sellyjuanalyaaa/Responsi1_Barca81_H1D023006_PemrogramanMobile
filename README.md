@@ -48,15 +48,6 @@ Aplikasi mobile berbasis **Android (Kotlin)** yang dirancang untuk menampilkan i
 5. **Menampilkan ke UI**  
    `Activity` atau `Fragment` mengamati perubahan data dan otomatis memperbarui tampilan (misalnya daftar pemain).
 
----
-
-## Teknologi yang Digunakan
-
-- Kotlin  
-- Retrofit  
-- ViewModel + LiveData  
-- ViewBinding  
-- RESTful API  
 
 
 
