@@ -8,20 +8,16 @@ import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import com.barca.responsi1mobileh1d023006.data.model.Player
 import com.barca.responsi1mobileh1d023006.databinding.FragmentTeamDetailBinding
 import java.io.Serializable
-import android.app.Dialog // <-- PENTING: Import untuk Dialog
-
+import android.app.Dialog
 class TeamDetailFragment : BottomSheetDialogFragment() {
     private var _binding: FragmentTeamDetailBinding? = null
     private val binding get() = _binding!!
 
-    // PERBAIKAN: OVERRIDE INI UNTUK MEMASTIKAN FRAGMENT BISA DITUTUP SAAT KLIK DI LUAR
     override fun onCreateDialog(savedInstanceState: Bundle?): Dialog {
         val dialog = super.onCreateDialog(savedInstanceState)
 
-        // Mengatur agar dialog dapat ditutup dengan mengetuk di luar area Bottom Sheet
         dialog.setCanceledOnTouchOutside(true)
 
-        // Mengatur agar dialog dapat ditutup dengan tombol Back (standar BottomSheetDialogFragment)
         isCancelable = true
 
         return dialog
@@ -38,7 +34,6 @@ class TeamDetailFragment : BottomSheetDialogFragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // Data casting tetap sama
         val player = arguments?.getSerializable(ARG_PLAYER) as? Player
 
         player?.let {

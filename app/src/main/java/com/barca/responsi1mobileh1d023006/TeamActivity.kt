@@ -49,7 +49,6 @@ class TeamActivity : AppCompatActivity() {
                         if (attempt > maxRetries) {
                             Toast.makeText(this@TeamActivity, "Gagal memuat data (${response.code()})", Toast.LENGTH_LONG).show()
                         } else {
-                            // small backoff before retry
                             delay(1000L * attempt)
                         }
                     }
@@ -75,7 +74,6 @@ class TeamActivity : AppCompatActivity() {
 
     private fun showPlayerDetail(player: Player) {
         val fragment = TeamDetailFragment.newInstance(player)
-        // show as BottomSheetDialogFragment so tapping outside can dismiss it
         fragment.show(supportFragmentManager, "team_detail")
     }
 }

@@ -61,7 +61,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
-            <!-- Kartu profil Barça -->
             <com.google.android.material.card.MaterialCardView
                 android:id="@+id/card_profil"
                 android:layout_width="match_parent"
@@ -79,7 +78,7 @@
                     android:layout_height="wrap_content"
                     android:paddingHorizontal="20dp"
                     android:paddingVertical="12dp"
-                    android:text="FC Barcelona adalah klub sepak bola asal Spanyol yang berdiri pada 1899 dan bermarkas di Stadion Spotify Camp Nou. Klub ini dikenal dengan gaya permainan tiki-taka dan motto “Més que un club.” Barcelona telah meraih banyak gelar bergengsi dan melahirkan pemain legendaris seperti Lionel Messi, Xavi, dan Iniesta."
+                    android:text="@string/barca_desc"
                     android:textSize="15sp"
                     android:textColor="@color/barca_yellow"
                     android:fontFamily="sans-serif"
@@ -90,7 +89,6 @@
                     android:textStyle="italic" />
             </com.google.android.material.card.MaterialCardView>
 
-            <!-- Menu navigasi di bawah profil -->
             <LinearLayout
                 android:id="@+id/linear_profil"
                 android:layout_width="match_parent"
