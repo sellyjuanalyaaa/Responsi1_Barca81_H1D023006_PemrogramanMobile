@@ -7,7 +7,7 @@
 
 # 81 Barcelona FC
 Aplikasi mobile berbasis **Android (Kotlin)** yang dirancang untuk menampilkan informasi lengkap mengenai tim sepak bola, termasuk daftar pemain, pelatih, dan sejarah klub. Data diambil secara real-time dari API eksternal.
-# ![](Responsi_Barca81_H1D023006%20(1).gif)
+# ![](Responsi_Barca81_H1D023006(2).gif)
 
 ---
 
@@ -47,6 +47,7 @@ Aplikasi mobile berbasis **Android (Kotlin)** yang dirancang untuk menampilkan i
 
 5. **Menampilkan ke UI**  
    `Activity` atau `Fragment` mengamati perubahan data dan otomatis memperbarui tampilan (misalnya daftar pemain).
+
 
 
 
